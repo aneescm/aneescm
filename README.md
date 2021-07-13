@@ -22,11 +22,20 @@ JOB ROLE: **ECOMMERCE PROJECT TECHNICAL MANAGER & DIGITAL MARKETING ANALYST**
 
 *  C
 *  C++
-*  JAVA
+*  ![Java](download.jpg)
 *  HTML
 *  CSS
 *  GOOGLE ANALYTICS
 *  GOOGLE ADWORDS
 
-www.linkedin.com/in/AneesIAQ
+[LinkedIn Profile](www.linkedin.com/in/AneesIAQ)
+
+
+## My Hobbies
+* Swimming 🚣‍♂
+* Cricket 🏏 
+* Football ⚽ 
+* Basketball 🏀
+
+> Success is best when it’s shared. ~ Howard Schultz, CEO of Starbucks
 -->
